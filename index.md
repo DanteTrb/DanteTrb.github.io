@@ -82,6 +82,18 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
+## 🔳 Scan to visit my GitHub
+
+<p align="center">
+  <a href="https://github.com/DanteTrb" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://github.com/DanteTrb" alt="QR Code to GitHub">
+  </a>
+</p>
+
+➡️ Or visit directly: [github.com/DanteTrb](https://github.com/DanteTrb)
+
+---
+
 ## 🧩 Site Info
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DanteTrb.DanteTrb.github.io)
