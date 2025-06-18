@@ -3,6 +3,7 @@ layout: default
 title: Dante Trabassi
 ---
 
+<!-- Forza favicon -->
 <link rel="icon" type="image/png" href="/assets/img/favicon.png">
 
 [Home](./) • [Projects](#-featured-projects) • [Publications](#-selected-publications) • [CV](./DanteTrabassi_CV.pdf) • [Contact](#-connect)
