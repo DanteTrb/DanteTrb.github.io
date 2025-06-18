@@ -7,6 +7,24 @@ title: Dante Trabassi
 
 # 👋 Welcome
 
+<p align="center">
+  <a href="https://github.com/DanteTrb" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dante-trabassi-66b3718b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it&oi=ao" target="_blank">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-4739-3441" target="_blank">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="mailto:dante.trabassi@uniroma1.it" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-dantetrb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 I'm **Dante Trabassi**, a PhD in Neuroscience and AI/ML Scientist at Sapienza University of Rome.  
 I build **explainable AI tools** to uncover movement signatures in neurodegenerative diseases.
 
