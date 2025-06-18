@@ -7,3 +7,14 @@ theme: jekyll-theme-minimal
 logo: /assets/img/profile.png
 
 show_downloads: false
+
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: /assets/css/style.css
