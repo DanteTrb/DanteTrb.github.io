@@ -66,6 +66,7 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ## 🧩 Site Info
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DanteTrb.DanteTrb.github.io)
 ![Last update](https://img.shields.io/github/last-commit/DanteTrb/DanteTrb.github.io)
 ![Repo size](https://img.shields.io/github/repo-size/DanteTrb/DanteTrb.github.io)
 ![Followers](https://img.shields.io/github/followers/DanteTrb?style=social)
