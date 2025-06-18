@@ -50,6 +50,12 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
+## 📎 Download my CV
+
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-blue?style=for-the-badge&logo=readthedocs)](./DanteTrabassi_CV.pdf)
+
+---
+
 ## 📬 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dante-trabassi-66b3718b/)
