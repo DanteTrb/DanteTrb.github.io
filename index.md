@@ -7,7 +7,7 @@ title: Dante Trabassi
 
 # 👋 Welcome
 
-<p align="center">
+<div class="sticky-icons">
   <a href="https://github.com/DanteTrb" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -21,9 +21,9 @@ title: Dante Trabassi
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
   <a href="mailto:dante.trabassi@uniroma1.it" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-dantetrb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-dante.trabassi@uniroma1.it-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</div>
 
 I'm **Dante Trabassi**, a PhD in Neuroscience and AI/ML Scientist at Sapienza University of Rome.  
 I build **explainable AI tools** to uncover movement signatures in neurodegenerative diseases.
