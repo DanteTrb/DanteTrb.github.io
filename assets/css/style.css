@@ -37,6 +37,18 @@ p a img:hover {
   box-shadow: 0 0 12px rgba(0, 255, 255, 0.6);
 }
 
+/* 🎯 Ridimensiona davvero il logo caricato da _config.yml */
+img[alt="Logo"] {
+  width: 120px !important;
+  height: auto !important;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+
 /* Ridimensiona immagine del logo */
 .site-header img {
   max-width: 100px !important; /* circa 1/4 della grandezza attuale */
