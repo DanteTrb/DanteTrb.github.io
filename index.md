@@ -3,20 +3,23 @@ layout: default
 title: Dante Trabassi
 ---
 
+[Home](./) • [Projects](#-featured-projects) • [Publications](#-selected-publications) • [CV](./DanteTrabassi_CV.pdf) • [Contact](#-connect)
+
 # 👋 Welcome
 
-I'm **Dante Trabassi**, a PhD in Neuroscience and AI Scientist at Sapienza University of Rome.  
+I'm **Dante Trabassi**, a PhD in Neuroscience and AI/ML Scientist at Sapienza University of Rome.  
 I build **explainable AI tools** to uncover movement signatures in neurodegenerative diseases.
 
 ---
 
 ## 🧠 Areas of Expertise
 
-- Parkinson's Disease, Hereditary Spastic Paraparesis (HSP), Ataxia
+- Parkinson's Disease, Hereditary Spastic Paraparesis (HSP), Ataxia and Movement Disorders
 - Gait analysis with wearable sensors and clinical EMG
 - Explainable AI (SHAP, SHAPSet, GradCAM)
-- AI model deployment (Streamlit, Django, Vercel)
+- AI model deployment (Streamlit, Django, React, Vercel)
 - Data balancing, GANs, temporal features
+- TimeSeries Forecasting & Computer Vision
 
 ---
 
@@ -33,6 +36,20 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
+## 📄 Publications
+
+- Trabassi D, Serrao M, Varrecchia T, Ranavolo A, Coppola G, De Icco R, Tassorelli C, Castiglia SF.  
+  [**Machine Learning Approach to Support the Detection of Parkinson's Disease in IMU-Based Gait Analysis**](https://www.mdpi.com/1424-8220/22/10/3700) – *Sensors*, 2022  
+  DOI: [10.3390/s22103700](https://doi.org/10.3390/s22103700) · PMID: [35632109](https://pubmed.ncbi.nlm.nih.gov/35632109/) · PMCID: [PMC9148133](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9148133/)
+
+- Trabassi D, Castiglia SF, Bini F, Marinozzi F, Ajoudani A, Lorenzini M, Chini G, Varrecchia T, Ranavolo A, De Icco R, Casali C, Serrao M.  
+  [**Optimizing Rare Disease Gait Classification through Data Balancing and Generative AI: Insights from Hereditary Cerebellar Ataxia**](https://www.mdpi.com/1424-8220/24/11/3613) – *Sensors*, 2024  
+  DOI: [10.3390/s24113613](https://doi.org/10.3390/s24113613) · PMID: [38894404](https://pubmed.ncbi.nlm.nih.gov/38894404/) · PMCID: [PMC11175240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11175240/)
+
+📚 See full list on [Google Scholar](https://scholar.google.com/citations?user=ruagPIsAAAAJ&hl=it&oi=ao)
+
+---
+
 ## 📬 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dante-trabassi-66b3718b/)
@@ -41,4 +58,4 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
-> “Turning data into clinical insight, one step at a time.”
+> Turning data into clinical insight, one step at a time.
