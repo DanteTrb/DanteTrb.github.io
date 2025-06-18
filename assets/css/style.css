@@ -1,0 +1,26 @@
+/* Dark mode automatico */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #80d8ff;
+  }
+
+  h1, h2, h3 {
+    color: #f2f2f2;
+  }
+
+  .site-footer {
+    background-color: #111;
+    color: #ccc;
+  }
+}
+
+/* Font migliorato */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.7;
+}
