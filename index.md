@@ -72,4 +72,8 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
+📄 [Ultimo aggiornamento automatico](./badges.md)
+
+---
+
 > Turning data into clinical insight, one step at a time.
