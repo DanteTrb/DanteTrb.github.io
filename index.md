@@ -3,10 +3,6 @@ layout: default
 title: Dante Trabassi
 ---
 
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-
----
-
 [Home](./) • [Projects](#-featured-projects) • [Publications](#-selected-publications) • [CV](./DanteTrabassi_CV.pdf) • [Contact](#-connect)
 
 # 👋 Welcome
