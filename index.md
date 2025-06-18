@@ -64,4 +64,12 @@ I build **explainable AI tools** to uncover movement signatures in neurodegenera
 
 ---
 
+## 🧩 Site Info
+
+![Last update](https://img.shields.io/github/last-commit/DanteTrb/DanteTrb.github.io)
+![Repo size](https://img.shields.io/github/repo-size/DanteTrb/DanteTrb.github.io)
+![Followers](https://img.shields.io/github/followers/DanteTrb?style=social)
+
+---
+
 > Turning data into clinical insight, one step at a time.
