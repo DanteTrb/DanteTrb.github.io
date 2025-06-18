@@ -5,12 +5,5 @@ description: >
 
 theme: jekyll-theme-minimal
 logo: /assets/img/profile.png
-google_analytics: ""  # puoi aggiungere qui l'ID se vuoi tracking
 
 show_downloads: false
-
-github:
-  username: DanteTrb
-linkedin: https://www.linkedin.com/in/dante-trabassi-66b3718b/
-scholar: https://scholar.google.com/citations?user=ruagPlsAAAAJ
-orcid: https://orcid.org/0000-0002-4739-3441
