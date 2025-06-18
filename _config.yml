@@ -18,5 +18,3 @@ defaults:
     values:
       layout: default
       css: /assets/css/style.css
-
-favicon: /favicon.ico
