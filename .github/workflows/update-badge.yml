@@ -1,0 +1,28 @@
+name: ⏱️ Daily Badge Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Ogni giorno alle 6:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v3
+
+    - name: 🖋️ Update badges.md with current date
+      run: |
+        echo "# 🧩 GitHub Action Badge Log" > badges.md
+        echo "" >> badges.md
+        echo "Ultimo aggiornamento automatico: $(date '+%d %B %Y, %H:%M UTC')" >> badges.md
+
+    - name: 🚀 Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add badges.md
+        git commit -m "🔄 Update badge timestamp"
+        git push
