@@ -37,6 +37,14 @@ p a img:hover {
   box-shadow: 0 0 12px rgba(0, 255, 255, 0.6);
 }
 
+/* Ridimensiona immagine del logo */
+.site-header img {
+  max-width: 100px !important; /* circa 1/4 della grandezza attuale */
+  height: auto;
+  border-radius: 8px;
+}
+
+
 /* 📌 Sticky bar for top icons */
 .sticky-icons {
   position: sticky;
