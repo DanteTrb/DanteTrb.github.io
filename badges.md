@@ -1,0 +1,3 @@
+# 🧩 GitHub Action Badge Log
+
+Ultimo aggiornamento automatico: ⚙️ In attesa del primo run...
