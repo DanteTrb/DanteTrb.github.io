@@ -7,6 +7,8 @@ title: Dante Trabassi
   <img src="/assets/img/profile.png" alt="Dante Trabassi" width="160" style="border-radius: 50%;">
 </p>
 
+---
+
 [Home](./) • [Projects](#-featured-projects) • [Publications](#-selected-publications) • [CV](./DanteTrabassi_CV.pdf) • [Contact](#-connect)
 
 # 👋 Welcome
