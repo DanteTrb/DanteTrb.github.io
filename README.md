@@ -2,7 +2,7 @@
   <img src="assets/img/Banner.png" alt="Banner Dante Trabassi" width="100%">
 </p>
 
-# DanteTrb.github.io
+# Website (DanteTrb.github.io)
 
 This repository powers my personal academic & AI portfolio website, showcasing research in clinical machine learning, explainable AI, and movement analysis.
 
