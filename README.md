@@ -1,6 +1,7 @@
 # DanteTrb.github.io
 
-This repository powers my personal academic & AI portfolio:  
+This repository powers my personal academic & AI portfolio website, showcasing research in clinical machine learning, explainable AI, and movement analysis.
+
 🔗 [Visit the live site → dantetrb.github.io](https://dantetrb.github.io)
 
 ---
