@@ -25,5 +25,11 @@ This GitHub Pages site is a showcase of my work in:
 
 ---
 
-> Turning data into clinical insight, one step at a time.  
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Python](https://img.shields.io/badge/Python-3.9-yellow)
+
+---
+
+> *Turning data into clinical insight, one step at a time.*  
 > – Dante Trabassi, PhD Neuroscience @ Sapienza, AI-ML Scientist
