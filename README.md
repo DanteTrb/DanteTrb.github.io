@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/img/Banner.png" alt="Banner Dante Trabassi" width="40%">
+  <a href="https://dantetrb.github.io" target="_blank">
+    <img src="assets/img/Banner.png" alt="Banner Dante Trabassi" width="80%">
+  </a>
 </p>
 
 # Website (DanteTrb.github.io)
