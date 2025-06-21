@@ -1,5 +1,3 @@
-name: ⏰ Daily Badge Update
-
 on:
   schedule:
     - cron: '0 9 * * *'  # ogni giorno alle 09:00 UTC
@@ -10,7 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -21,7 +18,8 @@ jobs:
           git config --global user.email "bot@dantetrb.io"
 
       - name: Create or update badges.md
-        run: echo "🕓 Ultimo aggiornamento: $(date -u) UTC" > badges.md
+        run: |
+          echo "🕓 Ultimo aggiornamento: $(date -u) UTC" > badges.md
 
       - name: Commit changes
         run: |
