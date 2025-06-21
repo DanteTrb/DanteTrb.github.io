@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Setup Git config
         run: |
@@ -19,14 +21,13 @@ jobs:
 
       - name: Create or update badges.md
         run: |
-          echo "🕓 Ultimo aggiornamento: $(date -u) UTC" > badges.md
+          echo "🛠️ Ultimo aggiornamento: $(date -u) UTC" > badges.md
 
       - name: Commit changes
         run: |
           git add badges.md
-          git commit -m "🔄 Aggiornamento automatico badge" || echo "Nessuna modifica da committare"
+          git commit -m "🛠️ Aggiornamento automatico badge" || echo "Nessuna modifica da committare"
 
       - name: Push changes
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
+          git push
