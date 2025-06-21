@@ -2,29 +2,33 @@ name: ⏰ Daily Badge Update
 
 on:
   schedule:
-    - cron: '0 9 * * *' # ogni giorno alle 9:00 UTC
+    - cron: '0 9 * * *'  # ogni giorno alle 09:00 UTC
   workflow_dispatch:
 
 jobs:
   update-badge:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Git
+      - name: Setup Git config
         run: |
           git config --global user.name "DanteTrb Bot"
           git config --global user.email "bot@dantetrb.io"
 
-      - name: Update badge timestamp
-        run: |
-          echo "🕓 Ultimo aggiornamento automatico: $(date -u) UTC" > badges.md
+      - name: Create or update badges.md
+        run: echo "🕓 Ultimo aggiornamento: $(date -u) UTC" > badges.md
 
       - name: Commit changes
         run: |
           git add badges.md
-          git commit -m "🔄 Auto update badge timestamp"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "🔄 Aggiornamento automatico badge" || echo "Nessuna modifica da committare"
+
+      - name: Push changes
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push origin main
