@@ -67,4 +67,4 @@ This GitHub Pages site is a showcase of my work in:
 ---
 
 > *Turning data into clinical insight, one step at a time.*  
-> – Dante Trabassi, PhD Neuroscience @ Sapienza, AI-ML Scientist
+> – Dante Trabassi, PhD Neuroscience @ Sapienza, AI-ML Scientist, Biomedical Enginner
