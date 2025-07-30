@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Website (DanteTrb.github.io)
+# Website 💻
 
 This repository powers my personal academic & AI portfolio website, showcasing research in clinical machine learning, explainable AI, and movement analysis.
 
